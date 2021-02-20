@@ -23,3 +23,16 @@ The meals is organized about categories, each category has a list of meals
   <img src="images/poza17.jpg" width="510" >
 </p>
 
+An user can has a list of favorites meals.
+<p align="center">
+<img src="images/poza12.jpg" width="350">
+</p>
+
+For person who cooks, application has a page's meal where find the recipe's meal.
+<p align="center">
+<img  src="images/poza15.jpg" width="350">
+</p>
+
+
+
+
