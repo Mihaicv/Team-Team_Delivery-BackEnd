@@ -28,7 +28,7 @@ An user can create its own list of favorites.
 <img src="images/poza12.jpg" width="350">
 </p>
 
-For the individuals who cook, the application has embedded the recepises list for each .
+For the individuals who cook, the application has embedded the recipes list for each dish from the menu.
 <p align="center">
 <img  src="images/poza15.jpg" width="350">
 </p>
