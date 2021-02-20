@@ -2,7 +2,7 @@
 <img  src="images/poza16.jpg" width="350">
 </p>
 
-Team-Team_Delivery is an application witch delivery food. The application is made in React, Java, CSS, SpringBoot.
+Team-Team_Delivery is an application witch is used in the online food delivery.
 
 <p align="center">
 <img src="images/poza10.jpg" width="350">
