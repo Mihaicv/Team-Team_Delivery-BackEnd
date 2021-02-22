@@ -33,6 +33,6 @@ For the individuals who cook, the application has embedded the recipes list for 
 <img  src="images/poza15.jpg" width="350">
 </p>
 
-
+Back-end: https://github.com/Mihaicv/Team-Team_Delivery-FrontEnd
 
 
