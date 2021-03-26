@@ -1,9 +1,11 @@
+Front-end: https://github.com/Mihaicv/Team-Team_Delivery-FrontEnd
+
 <p align="center">
 <img  src="images/poza16.jpg" width="350">
 </p>
 
 Team-Team_Delivery is an application witch is used in the online food delivery.
-Front-end: https://github.com/Mihaicv/Team-Team_Delivery-FrontEnd
+
 
 
 
