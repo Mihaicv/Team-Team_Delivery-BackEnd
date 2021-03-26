@@ -1,4 +1,4 @@
-Front-end: https://github.com/Mihaicv/Team-Team_Delivery-FrontEnd
+
 
 <p align="center">
 <img  src="images/poza16.jpg" width="350">
@@ -38,6 +38,8 @@ For the individuals who cook, the application has embedded the recipes list for 
 <img  src="images/poza15.jpg" width="350">
 </p>
 
+
+Front-end: https://github.com/Mihaicv/Team-Team_Delivery-FrontEnd
 
 
 
