@@ -1,7 +1,7 @@
 package com.glovo.ttglovo.favourite_meal.repository;
 
-import com.glovo.ttglovo.prices.Meal;
-import com.glovo.ttglovo.prices.MealRepository;
+import com.glovo.ttglovo.meal.Meal;
+import com.glovo.ttglovo.meal.MealRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
