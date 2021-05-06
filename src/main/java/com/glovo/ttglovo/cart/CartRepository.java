@@ -19,6 +19,24 @@ public interface CartRepository extends JpaRepository<CartItem, Long> {
     @Transactional
     Optional<CartItem> deleteCartItemById(CartId cartId);
 
+
+    @Transactional
+    @Modifying
+    @Query("UPDATE CartItem c " +
+            "SET c.quantity = c.quantity + 1 WHERE c.id = ?1")
+    void increaseQuantityByOne(CartId cartId);
+
+    @Transactional
+    @Modifying
+    @Query("UPDATE CartItem c " +
+            "SET c.quantity = c.quantity - 1 WHERE c.id = ?1")
+    void decreaseQuantityByOne(CartId cartId);
+
+
+//    @Modifying
+//    @Transactional
+//    Optional<CartItem> findCartItemsBy
+
 //    Optional<CartItem> findCartItemsByUser(Long userId);
 }
 
@@ -26,3 +44,4 @@ public interface CartRepository extends JpaRepository<CartItem, Long> {
 //    @Modifying
 //    @Transactional
 //    void removeTodoById(Long id);
+
